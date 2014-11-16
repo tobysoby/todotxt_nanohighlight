@@ -1,0 +1,6 @@
+syntax "todo.txt" "\todo.txt"
+
+color red start="\bx\b" end="$"
+color yellow start="\b(A)\b" end="$"
+color green start="\b(B)\b" end="$"
+color blue start="\b(C)\b" end="$"
